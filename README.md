@@ -1,5 +1,11 @@
-## Next.js App Router Course - Starter
+# Intro to Next.js
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+## Next.js App Router
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+### Learning Objectives:
+
+Set up your local environment and initializing the "ACME" Next.js project template.
+
+Use pre-styled components as part of each chapter that leverage Next.js conventions and patterns.
+
+Hook up real application logic and data to bring a fully-fledged demo website to life.
